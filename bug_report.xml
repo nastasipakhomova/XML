@@ -1,0 +1,11 @@
+<bugReport>
+<summary>Не кликабельна кнопка войти через  google на странице регистрации нового пользователя</summary>
+<descriptionOfSteps>
+<step>Зайти на сайт www.freem.ru</step>
+<step>Нажать вверху справа кнопку Регистрация</step>
+<step>Нажать в открывшемся окне кнопку Войти через google</step>
+</descriptionOfSteps>
+<actualResult>Кнопка не кликабельный, прцесс регистрации не осуществлен</actualResult>
+<expectedResult>Кнопка кликается,пользователь попадает на стартовую личного профиля</expectedResult>
+<severity>Major<severity>
+</bugReport>
